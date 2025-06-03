@@ -1,15 +1,16 @@
 <!-- 헤더 섹션: 이름과 인사말 -->
 
-<!-- 소개 섹션 -->
-## 🙋‍♂️ About Me
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+<!-- 프로필 카드 -->
+## 🧑‍💻 **About Me**
++ "기술로 세상을 더 편리하게 만드는 개발자"
+
+- 🔭 **현재**: [현재 활동/프로젝트]  
+- 🌱 **학습 중**: [배우고 있는 기술]  
+- 💡 **관심 분야**: [관심 기술/분야]  
+- ✉️ **연락처**: [이메일 or SNS]  
+
+---
 
 <!-- 기술 스택 섹션 -->
 ## 🛠️ Tech Stack
@@ -83,27 +84,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=안녕하세요!+👋;저는+[이름]입니다;함께+성장하는+개발자!" alt="Typing SVG" />
 </div>
 
----
 
-<!-- 프로필 카드 -->
-## 🧑‍💻 **About Me**
-+ "기술로 세상을 더 편리하게 만드는 개발자"
-
-- 🔭 **현재**: [현재 활동/프로젝트]  
-- 🌱 **학습 중**: [배우고 있는 기술]  
-- 💡 **관심 분야**: [관심 기술/분야]  
-- ✉️ **연락처**: [이메일 or SNS]  
-
----
-
-
-
-<!-- GitHub 통계 -->
-## 📊 **GitHub Stats**
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeonghun-git&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeonghun-git&layout=compact&theme=radical" alt="Top Languages" width="45%" />
-</div>
 
 ---
 
