@@ -46,6 +46,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeonghun-git&repo=jh-chat&theme=radical)](https://github.com/jeonghun-git/jh-chat)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=[YourUsername]&repo=[Repo2]&theme=radical)](https://github.com/[YourUsername]/[Repo2])
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jeonghun-git)](https://git.io/streak-stats)
 <!-- 블로그 포스트 섹션 -->
 ## ✍️ Recent Blog Posts
 <!-- 최근 블로그 포스트 (RSS 피드나 API로 가져올 수 있음) -->
@@ -115,10 +116,6 @@
 | **[프로젝트2](링크)** | 간결한 설명 | ![Python](https://img.shields.io/badge/-Python-3776AB) ![Django](https://img.shields.io/badge/-Django-092E20) |
 
 ---
-
-<!-- 연속 기여 그래프 -->
-## 🔥 **Contribution Streak**
-![GitHub Streak](https://streak-stats.demolab.com?user=jeonghun-git&theme=radical)
 
 <!-- 블로그/포트폴리오 링크 -->
 ## ✍️ **Blog & Portfolio**
