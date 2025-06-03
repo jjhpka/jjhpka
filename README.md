@@ -21,10 +21,6 @@
   </a>
 </p>
 
-- 🔭 **현재**: [현재 활동/프로젝트]  
-- 🌱 **학습 중**: [배우고 있는 기술]  
-- 💡 **관심 분야**: [관심 기술/분야]  
-- ✉️ **연락처**: [이메일 or SNS] 
 <!-- 아이콘은 https://simpleicons.org/ 에서 찾아서 사용하세요 -->
 <!-- 기술 스택 -->
 
@@ -40,6 +36,12 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+
+
+- 🔭 **현재**: [현재 활동/프로젝트]  
+- 🌱 **학습 중**: [배우고 있는 기술]  
+- 💡 **관심 분야**: [관심 기술/분야]  
+- ✉️ **연락처**: [이메일 or SNS] 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeonghun-git&layout=compact&theme=radical" alt="Top Languages" />
 
