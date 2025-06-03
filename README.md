@@ -44,7 +44,7 @@
 ## **Featured Projects**
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[프로젝트1](링크)** | 간결한 설명 | ![React](https://img.shields.io/badge/-React-61DAFB) ![Node.js](https://img.shields.io/badge/-Node.js-339933) |
+| **[jh-chat](https://github.com/jeonghun-git/jh-chat-pub)** | AI Chatbot Site | ![React](https://img.shields.io/badge/-React-61DAFB) ![Node.js](https://img.shields.io/badge/-Node.js-339933) |
 | **[프로젝트2](링크)** | 간결한 설명 | ![Python](https://img.shields.io/badge/-Python-3776AB) ![Django](https://img.shields.io/badge/-Django-092E20) |
 
 <!-- 블로그 포스트 섹션 -->
