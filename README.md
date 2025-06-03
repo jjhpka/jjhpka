@@ -2,8 +2,8 @@
 
 
 <!-- 프로필 카드 -->
-## 🧑‍💻 **About Me**
-### "worker-holic"
+## **About Me**
+## "worker-holic"
 
 <p align="start">
   <a href="https://linkedin.com/in/[YourUsername]">
@@ -61,9 +61,6 @@
 - [블로그 포스트 제목 1](링크)
 - [블로그 포스트 제목 2](링크)
 
-
-<!-- 소셜 미디어 링크 -->
-## 📫 Connect with Me
 
 
 
