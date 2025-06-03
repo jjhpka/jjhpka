@@ -49,7 +49,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jeonghun-git)](https://git.io/streak-stats)
 
-## 🚀 **Featured Projects**
+## **Featured Projects**
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | **[프로젝트1](링크)** | 간결한 설명 | ![React](https://img.shields.io/badge/-React-61DAFB) ![Node.js](https://img.shields.io/badge/-Node.js-339933) |
@@ -72,7 +72,7 @@
 
 
 <!-- 블로그/포트폴리오 링크 -->
-## ✍️ **Blog & Portfolio**
+## **Blog & Portfolio**
 - 📝 [기술 블로그](링크)
 - 🎨 [포트폴리오 사이트](링크)
 
