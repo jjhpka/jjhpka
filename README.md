@@ -39,8 +39,8 @@
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | **[jh-chat](https://github.com/jeonghun-git/jh-chat-pub)** | AI Chatbot Site | ![React.ts](https://img.shields.io/badge/-React-61DAFB) ![Node.js](https://img.shields.io/badge/-Node.js-339933) |
-| **[AI Smart Mirror](링크)** | AI Integrated Mirror | ![Python](https://img.shields.io/badge/-Python-3776AB) ![FastAPI](https://img.shields.io/badge/-Django-092E20) |
-| **[AI Drone Controller](링크)** | AI Agent Drone Control UI | ![React](https://img.shields.io/badge/-React-61DAFB) ![Python](https://img.shields.io/badge/-Python-3776AB) ![FastAPI](https://img.shields.io/badge/-Django-092E20) |
+| **[AI Smart Mirror](링크)** | AI Integrated Mirror | ![Python](https://img.shields.io/badge/-Python-3776AB) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+| **[AI Drone Controller](링크)** | AI Agent Drone Control UI | ![React](https://img.shields.io/badge/-React-61DAFB) ![Python](https://img.shields.io/badge/-Python-3776AB) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 <!-- 블로그 포스트 섹션 -->
 ## ✍️ Recent Blog Posts
 <!-- 최근 블로그 포스트 (RSS 피드나 API로 가져올 수 있음) -->
