@@ -30,8 +30,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?logo=ros&logoColor=white)
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeonghun-git&layout=compact&theme=radical" alt="Top Languages" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeonghun-git&show_icons=true&theme=highcontrast" /> 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jeonghun-git)](https://git.io/streak-stats)
 
