@@ -34,12 +34,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
-<!-- 연속 기여도 그래프 -->
-## 🔥 Streak Stats
-<div>
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=jeonghun-git)](https://git.io/streak-stats)
-</div>
-
 <!-- 프로젝트 하이라이트 섹션 -->
 ## 🚀 Projects
 <!-- 핀 고정된 레포지토리 (6개까지 가능) -->
@@ -55,7 +49,7 @@
 <!-- 방문자 수 카운터 -->
 ## 👀 Visitors
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YourUsername]&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=jeonghun-git&color=blue&style=flat-square" alt="Profile Views" />
 </div>
 
 <!-- 소셜 미디어 링크 -->
@@ -125,8 +119,8 @@
 <!-- GitHub 통계 -->
 ## 📊 **GitHub Stats**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[당신의_깃허브_아이디]&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[당신의_깃허브_아이디]&layout=compact&theme=radical" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jeonghun-git&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeonghun-git&layout=compact&theme=radical" alt="Top Languages" width="45%" />
 </div>
 
 ---
@@ -142,7 +136,7 @@
 
 <!-- 연속 기여 그래프 -->
 ## 🔥 **Contribution Streak**
-![GitHub Streak](https://streak-stats.demolab.com?user=[당신의_깃허브_아이디]&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=jeonghun-git&theme=radical)
 
 <!-- 블로그/포트폴리오 링크 -->
 ## ✍️ **Blog & Portfolio**
