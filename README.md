@@ -18,7 +18,7 @@
 <!-- 기술 스택 -->
 
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?logo=c&logoColor=black)
-![C++17](https://img.shields.io/badge/C++-17-00599C.svg?logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
