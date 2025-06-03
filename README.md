@@ -74,15 +74,7 @@
     <img src="https://img.shields.io/badge/Blog-FF9800?style=for-the-badge&logo=blogger&logoColor=white"/>
   </a>
 </p>
-```
 
-### 사용 방법
-1. `[YourUsername]`을 본인의 깃허브 아이디로 변경하세요.
-2. `[Repo1]`, `[Repo2]` 등은 본인의 레포지토리 이름으로 변경하세요.
-3. About Me 섹션을 본인에 맞게 수정하세요.
-4. Tech Stack은 본인이 사용하는 기술로 업데이트하세요. (https://simpleicons.org/에서 아이콘 찾기)
-5. 블로그 포스트가 있다면 링크를 추가하세요.
-6. 소셜 미디어 링크도 본인에 맞게 수정하세요.
 
 ### 추가 팁
 - 배지(Badge) 생성: https://shields.io/ 에서 커스텀 배지 생성 가능
@@ -91,11 +83,6 @@
 - Streak Stats: https://github.com/DenverCoder1/github-readme-streak-stats
 - 방문자 카운터: `https://komarev.com/ghpvc/?username=[YourUsername]` 사용
 
-이 템플릿을 기반으로 자신만의 개성을 담아 멋진 깃허브 프로필을 만들어보세요! 😊
-:::
-### 깔끔하고 깐지나는 GitHub 프로필 README 템플릿 🚀
-
-```markdown
 <!-- 헤더: 애니메이션 타이핑 효과 -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=안녕하세요!+👋;저는+[이름]입니다;함께+성장하는+개발자!" alt="Typing SVG" />
@@ -105,9 +92,8 @@
 
 <!-- 프로필 카드 -->
 ## 🧑‍💻 **About Me**
-```diff
 + "기술로 세상을 더 편리하게 만드는 개발자"
-```
+
 - 🔭 **현재**: [현재 활동/프로젝트]  
 - 🌱 **학습 중**: [배우고 있는 기술]  
 - 💡 **관심 분야**: [관심 기술/분야]  
