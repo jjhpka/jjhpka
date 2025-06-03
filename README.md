@@ -2,7 +2,7 @@
 
 
 <!-- 프로필 카드 -->
-## **About Me**
+## 🧑‍💻 **About Me**
 ## "worker-holic"
 
 <p align="start">
