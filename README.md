@@ -34,15 +34,9 @@
 ---
 <!-- GitHub 통계 섹션 -->
 ## 📈 GitHub Stats
-<div align="center">
+<div align="start">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeonghun-git&layout=compact&theme=radical" alt="Top Languages" />
 </div>
-
-<!-- 프로젝트 하이라이트 섹션 -->
-## 🚀 Projects
-<!-- 핀 고정된 레포지토리 (6개까지 가능) -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeonghun-git&repo=jh-chat&theme=radical)](https://github.com/jeonghun-git/jh-chat)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=[YourUsername]&repo=[Repo2]&theme=radical)](https://github.com/[YourUsername]/[Repo2])
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jeonghun-git)](https://git.io/streak-stats)
 
