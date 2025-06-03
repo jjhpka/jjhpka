@@ -37,7 +37,7 @@
 <!-- 프로젝트 하이라이트 섹션 -->
 ## 🚀 Projects
 <!-- 핀 고정된 레포지토리 (6개까지 가능) -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=[YourUsername]&repo=[Repo1]&theme=radical)](https://github.com/[YourUsername]/[Repo1])
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeonghun-git&repo=jh-chat&theme=radical)](https://github.com/jeonghun-git/jh-chat)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=[YourUsername]&repo=[Repo2]&theme=radical)](https://github.com/[YourUsername]/[Repo2])
 
 <!-- 블로그 포스트 섹션 -->
