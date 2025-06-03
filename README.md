@@ -41,11 +41,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
-<!-- GitHub 통계 섹션 -->
-## 📈 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeonghun-git&layout=compact&theme=radical" alt="Top Languages" />
-
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jeonghun-git)](https://git.io/streak-stats)
 
 ## **Featured Projects**
