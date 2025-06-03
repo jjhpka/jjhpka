@@ -3,14 +3,12 @@
 
 <!-- 프로필 카드 -->
 ## 🧑‍💻 **About Me**
-+ "기술로 세상을 더 편리하게 만드는 개발자"
++ "worker-holic"
 
 - 🔭 **현재**: [현재 활동/프로젝트]  
 - 🌱 **학습 중**: [배우고 있는 기술]  
 - 💡 **관심 분야**: [관심 기술/분야]  
 - ✉️ **연락처**: [이메일 or SNS]  
-
----
 
 <!-- 기술 스택 섹션 -->
 ## 🛠️ Tech Stack
@@ -47,6 +45,13 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=[YourUsername]&repo=[Repo2]&theme=radical)](https://github.com/[YourUsername]/[Repo2])
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jeonghun-git)](https://git.io/streak-stats)
+
+## 🚀 **Featured Projects**
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[프로젝트1](링크)** | 간결한 설명 | ![React](https://img.shields.io/badge/-React-61DAFB) ![Node.js](https://img.shields.io/badge/-Node.js-339933) |
+| **[프로젝트2](링크)** | 간결한 설명 | ![Python](https://img.shields.io/badge/-Python-3776AB) ![Django](https://img.shields.io/badge/-Django-092E20) |
+
 <!-- 블로그 포스트 섹션 -->
 ## ✍️ Recent Blog Posts
 <!-- 최근 블로그 포스트 (RSS 피드나 API로 가져올 수 있음) -->
@@ -72,13 +77,6 @@
 </p>
 
 
-### 추가 팁
-- 배지(Badge) 생성: https://shields.io/ 에서 커스텀 배지 생성 가능
-- 타이핑 SVG: https://readme-typing-svg.demolab.com/demo/ 에서 커스텀 가능
-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats
-- Streak Stats: https://github.com/DenverCoder1/github-readme-streak-stats
-- 방문자 카운터: `https://komarev.com/ghpvc/?username=[YourUsername]` 사용
-
 <!-- 헤더: 애니메이션 타이핑 효과 -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=안녕하세요!+👋;저는+[이름]입니다;함께+성장하는+개발자!" alt="Typing SVG" />
@@ -89,11 +87,6 @@
 ---
 
 <!-- 프로젝트 하이라이트 -->
-## 🚀 **Featured Projects**
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[프로젝트1](링크)** | 간결한 설명 | ![React](https://img.shields.io/badge/-React-61DAFB) ![Node.js](https://img.shields.io/badge/-Node.js-339933) |
-| **[프로젝트2](링크)** | 간결한 설명 | ![Python](https://img.shields.io/badge/-Python-3776AB) ![Django](https://img.shields.io/badge/-Django-092E20) |
 
 ---
 
