@@ -5,6 +5,11 @@
 ## 🧑‍💻 **About Me**
 ## "worker-holic"
 
+- 🔭 **현재**: [현재 활동/프로젝트]  
+- 🌱 **학습 중**: [배우고 있는 기술]  
+- 💡 **관심 분야**: [관심 기술/분야]  
+- ✉️ **연락처**: [이메일 or SNS]  
+
 <p align="start">
   <a href="https://linkedin.com/in/[YourUsername]">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -20,10 +25,6 @@
   </a>
 </p>
 
-- 🔭 **현재**: [현재 활동/프로젝트]  
-- 🌱 **학습 중**: [배우고 있는 기술]  
-- 💡 **관심 분야**: [관심 기술/분야]  
-- ✉️ **연락처**: [이메일 or SNS]  
 
 <!-- 기술 스택 섹션 -->
 ## Tech Stack
