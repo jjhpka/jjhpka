@@ -30,8 +30,8 @@
 <!-- GitHub 통계 섹션 -->
 ## 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jeonghun-git&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeonghun-git&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 <!-- 프로젝트 하이라이트 섹션 -->
@@ -147,6 +147,6 @@
 
 <!-- 방문자 카운터 -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=[당신의_깃허브_아이디]&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=jeonghun-git&color=blue&style=flat-square" alt="Profile Views" />
 </div>
 
