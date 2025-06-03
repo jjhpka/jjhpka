@@ -37,11 +37,6 @@
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 
 
-- 🔭 **현재**: [현재 활동/프로젝트]  
-- 🌱 **학습 중**: [배우고 있는 기술]  
-- 💡 **관심 분야**: [관심 기술/분야]  
-- ✉️ **연락처**: [이메일 or SNS] 
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeonghun-git&layout=compact&theme=radical" alt="Top Languages" />
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jeonghun-git)](https://git.io/streak-stats)
