@@ -36,9 +36,7 @@
 
 <!-- 연속 기여도 그래프 -->
 ## 🔥 Streak Stats
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=[YourUsername]&theme=radical" alt="GitHub Streak" />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jeonghun-git)](https://git.io/streak-stats)
 
 <!-- 프로젝트 하이라이트 섹션 -->
 ## 🚀 Projects
