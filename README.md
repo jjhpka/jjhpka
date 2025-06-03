@@ -41,20 +41,6 @@
 | **[jh-chat](https://github.com/jeonghun-git/jh-chat-pub)** | AI Chatbot Site | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) |
 | **[AI Smart Mirror](링크)** | AI Integrated Mirror | ![Python](https://img.shields.io/badge/-Python-3776AB) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 | **[AI Drone Controller](링크)** | AI Agent Drone Control UI | ![Python](https://img.shields.io/badge/-Python-3776AB) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-<!-- 블로그 포스트 섹션 -->
-## ✍️ Recent Blog Posts
-<!-- 최근 블로그 포스트 (RSS 피드나 API로 가져올 수 있음) -->
-- [블로그 포스트 제목 1](링크)
-- [블로그 포스트 제목 2](링크)
-
-
-
-
-<!-- 헤더: 애니메이션 타이핑 효과 -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=안녕하세요!+👋;저는+[이름]입니다;함께+성장하는+개발자!" alt="Typing SVG" />
-</div>
-
 
 
 <!-- 블로그/포트폴리오 링크 -->
@@ -62,9 +48,4 @@
 - 📝 [기술 블로그](링크)
 - 🎨 [포트폴리오 사이트](링크)
 
-
-<!-- 방문자 카운터 -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jeonghun-git&color=blue&style=flat-square" alt="Profile Views" />
-</div>
 
