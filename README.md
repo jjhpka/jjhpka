@@ -24,10 +24,6 @@
     <img src="https://img.shields.io/badge/Blog-FF9800?style=for-the-badge&logo=blogger&logoColor=white"/>
   </a>
 </p>
-
-
-<!-- 기술 스택 섹션 -->
-## Tech Stack
 <!-- 아이콘은 https://simpleicons.org/ 에서 찾아서 사용하세요 -->
 <!-- 기술 스택 -->
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
