@@ -36,7 +36,9 @@
 
 <!-- 연속 기여도 그래프 -->
 ## 🔥 Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jeonghun-git)](https://git.io/streak-stats)
+<div>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=jeonghun-git)](https://git.io/streak-stats)
+</div>
 
 <!-- 프로젝트 하이라이트 섹션 -->
 ## 🚀 Projects
