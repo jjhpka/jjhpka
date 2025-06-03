@@ -14,24 +14,20 @@
 ## 🛠️ Tech Stack
 <!-- 아이콘은 https://simpleicons.org/ 에서 찾아서 사용하세요 -->
 <!-- 기술 스택 -->
-### **Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### **Frontend**
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 
-### **Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-### **DevOps**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
----
 <!-- GitHub 통계 섹션 -->
 ## 📈 GitHub Stats
 <div align="start">
@@ -78,18 +74,11 @@
 
 
 
----
-
-<!-- 프로젝트 하이라이트 -->
-
----
-
 <!-- 블로그/포트폴리오 링크 -->
 ## ✍️ **Blog & Portfolio**
 - 📝 [기술 블로그](링크)
 - 🎨 [포트폴리오 사이트](링크)
 
----
 
 <!-- 방문자 카운터 -->
 <div align="center">
