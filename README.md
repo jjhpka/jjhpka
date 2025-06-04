@@ -38,7 +38,7 @@
 |---------|-------------|------------|
 | **[jh-chat](https://jhun-park.xyz)** | AI Chatbot Site | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) |
 | **[AI Smart Mirror](링크)** | AI Integrated Mirror | ![Python](https://img.shields.io/badge/-Python-3776AB) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-| **[AI Drone Controller](링크)** | AI Agent Drone Control UI | ![Python](https://img.shields.io/badge/-Python-3776AB) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+| **[AI Drone Controller](https://github.com/jeonghun-git/droneAI/tree/main)** | AI Agent Drone Control UI | ![Python](https://img.shields.io/badge/-Python-3776AB) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 
 
 <!-- 블로그/포트폴리오 링크 -->
