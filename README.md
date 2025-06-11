@@ -30,7 +30,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jeonghun-git)](https://git.io/streak-stats)
 
-## **Featured Projects**
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | **[jh-chat](https://jhun-park.xyz)** | AI Chatbot Site | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) |
@@ -39,7 +38,6 @@
 
 
 <!-- 블로그/포트폴리오 링크 -->
-## **Blog & Portfolio**
 - [Blog](링크)
 - [Portfolio](링크)
 
