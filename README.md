@@ -2,9 +2,6 @@
 
 
 <!-- 프로필 카드 -->
-# jhpka
- 
-
 <p align="start">
   <a href="https://linkedin.com/in/[YourUsername]">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
