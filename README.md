@@ -15,8 +15,7 @@
   </a>
 </p>
 
-<!-- 아이콘은 https://simpleicons.org/ 에서 찾아서 사용하세요 -->
-<!-- 기술 스택 -->
+
 
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white)
@@ -32,7 +31,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?logo=ros&logoColor=white)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jeonghun-git)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jjhpka)](https://git.io/streak-stats)
 
 
 
