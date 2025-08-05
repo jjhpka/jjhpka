@@ -31,7 +31,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?logo=ros&logoColor=white)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jjhpka)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jhpka)](https://git.io/streak-stats)
 
 
 
