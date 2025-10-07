@@ -1,15 +1,9 @@
 <!-- 헤더 섹션: 이름과 인사말 -->
 
 <!-- 프로필 카드 -->
-<p align="start">
-  <a href="https://linkedin.com/in/[YourUsername]">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
 
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jjhpka)](https://git.io/streak-stats)
 
 
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?logo=c&logoColor=black)
@@ -27,14 +21,5 @@
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?logo=ros&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jjhpka)](https://git.io/streak-stats)
-
-
-
-
-<!-- 블로그/포트폴리오 링크 -->
-- [Blog](링크)
-- [Portfolio](링크)
 
 
