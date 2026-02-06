@@ -5,7 +5,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jjhpka)](https://git.io/streak-stats)
 
-
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white)
 
